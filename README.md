@@ -1,6 +1,5 @@
 # Title: "One-Click Social Media Post Creator"
 
-#### Video Demo:  https://youtu.be/SOpy0lgGN48
 
 # Description:
     There's nothing more disturbing than posting same picture and caption repeatedly different social medias and manage them. Many of us waste time on it, many hire "Social Media Manager" to manage these type of tasks (basically it is again us wasting time instead doing something more creative, but this time we are earning money). To automate and get rid of this monotonous task, i decided to make this project as final project of CS50P. For beginning, it will use our chrome browser and detect where we are logged in and match them with database (supports X, Instagram and Facebook for now) and post image with or without caption OR plain text status on the mentioned sites(MOST IMPORTANTLY: LOG-IN CREDINTIALS ARE NOT REQUIRED AT ALL!) This will help mostly:
